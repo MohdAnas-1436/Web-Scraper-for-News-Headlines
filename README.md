@@ -69,5 +69,3 @@ Each headline is on its own line — ready for use in summaries, apps, dashboard
 Free to use, modify, and learn from — no strings attached!
 
 ---
-
-Let me know if you'd like me to turn this into a ready-to-paste `README.md` file or add any extra features like CSV output, scheduling, or keyword filtering!
